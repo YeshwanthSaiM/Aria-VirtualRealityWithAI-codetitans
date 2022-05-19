@@ -1,2 +1,6 @@
-# National-Level-Start-Up-Hackathon-2022
-Please use this template for submitting solutions for the Microsoft Code Titans National Level Start-Up Hackathon 2022
+# ARIA - Virtual Reality with AI assistant
+Virtual Reality are the future of reality. And future is here. 
+We build a most immersive virtual tours powered and assistaed by voice/chat bots. 
+
+
+
